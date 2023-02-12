@@ -1,0 +1,15 @@
+.Poster {
+    background-color: #8DA9C4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+.address {
+    font-family: 'Playfair Display', serif;
+    padding: 10px;
+    margin: 5px ;
+    border: 1px solid black;
+}
